@@ -144,7 +144,7 @@ function App() {
                 TODO
               </Heading>
               <Text fontSize="md" color="gray.400" fontWeight="light" letterSpacing="1px">
-                ORGANIZATION MADE SIMPLE
+              Summary Assistant
               </Text>
             </Box>
             
